@@ -1,0 +1,5 @@
+﻿id,userName,firstName,lastName,aadharNumber,voterId,gender,DOB,phoneNumber,email,address,state,district,cityTown,pinCode,educationPG,educationUG,profesionalExperience,profesionalDepartment,salary,status,forgotPassword,loginCount,lastLogin,privacy,email_verified_at,createdAt,updatedAt
+9a2117c8-5e13-4a07-88a8-7627e5adf922,leader3,Sanjay,S,1234567891,,MALE,08-06-1994,1234567890,sanja@example.com,,,,,,,,,,,,,1,,,,2023-09-14T05:27:16.000000Z,2023-10-09T06:58:44.000000Z
+9a638c0f-f488-468c-adab-dcf4ed3adf05,sumeet,SUMEET,GHIMIRE,696553397898,,MALE,16-02-2001,696553397898,sumeet@example.com,,,,,,,,,,,,0,1,,,,2023-10-17T06:17:02.000000Z,2023-10-17T09:44:16.000000Z
+9a2117c8-5e13-4a07-88a8-7627e5adf911,Sumeet,Sumeet,Ghimire,1234567890,,MALE,08-06-1997,,sumeet@gmail.com,,,,,,,,,,,,,3,,,,,2023-10-25T12:41:07.000000Z
+9a2117c8-5e13-4a07-88a8-7627e5adf969,name,Nandish,S,1234567890,CLP33R,MALE,08-06-1994,1234567890,user@example.com,,,,,,,,,,,,0,39,,,,2023-09-14T05:27:16.000000Z,2023-10-25T12:41:36.000000Z

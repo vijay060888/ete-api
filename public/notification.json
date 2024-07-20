@@ -1,0 +1,36 @@
+{
+	"userLeader":
+		{
+			"page_accept":"{PartyName} has accepted the page access request.",
+			"page_reject":"{PartyName} has denied the page access request.",
+			"page_create":"{partyName} has accepted your page request.",
+			"page_access_accept":"{partyName} has accepted your page access request.",
+			"page_access_reject":"{partyName} has accepted your page access request.",
+			"party_request":"You have received a join request from {partyName}.",
+			"mention":"{name} has mentioned you in the post.",
+			"follow":"{name} has started following you.",
+			"reaction":"{name} reacted to your post.",
+			"comment":"{name} commented on your post.",
+            "commentreply" : "{name} reply on your comment."
+		},
+
+		"party":
+		{
+			"page_create": "{LeaderName} has sent you a page request.",
+			"page_access": "{LeaderName} has sent you a page access request.",
+			"mention":"{name} has mentioned {partyName} in the post.",
+			"reaction":"{name} reacted to your post created from {partyName}",
+			"comment":"{name} commented on your post from {partyName}.",
+            "commentreply" : "{name} reply on your comment",
+			"follow":"{name} has started following {partyName}.",
+			"party_accept":"{LeaderName} has accepted the request to the join the party.",
+			"party_reject":"{LeaderName} has rejected the request to the join the party."
+		},
+
+		"superAdmin":
+		{
+			"role_upgrade":"{name} has requested for role upgrade.",
+			"voteriduploaded" : "{name} has uploaded an voterId",
+			"fact_check":"{name} has requested for fact check verification."
+		}
+}
